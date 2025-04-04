@@ -2,15 +2,16 @@
 
 Đối với các bài có file `.txt`, các bạn mở riêng từng thư mục để tránh lỗi. Hoặc có thể di chuyển các file `.txt` ra ngoài theo định dạng sau:  
 
+
+```bash
 TongHop/
-    ├── DeQuy/
-    │   ├── Bai1.py
-    │   ├── Bai2.py
-    ├── Ham_Def/
-    │   ├── Bai1.py
-    │   ├── Bai2.py
-    ├── ...
-    ├── File .txt
-
-
+├── DeQuy/
+│   ├── Bai1.py
+│   ├── Bai2.py
+├── Ham_Def/
+│   ├── Bai1.py
+│   ├── Bai2.py
+├── ...
+├── File .txt
+```
 ## 🎯 *Chúc các bạn thi tốt!* 🎯
