@@ -1,0 +1,7 @@
+phong:30	ten:ten	150	255750.0
+phong:30	ten:ten	150	255750.0
+phong:30	ten:ten	150	255750.0
+phong:30	ten:ten	150	255750.0
+phong:30	ten:ten	150	255750.0
+phong:30	ten:ten	150	255750.0
+phong:30	ten:ten	150	255750.0

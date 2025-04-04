@@ -1,0 +1,2 @@
+phong:4	ten:h	so dien tieu thu:150	tien dien phai tra255750.0
+phong:5	ten:u	so dien tieu thu:157	tien dien phai tra271150.0
